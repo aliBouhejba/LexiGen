@@ -1,0 +1,20 @@
+# Core ML / NLP
+torch
+transformers
+trl
+peft
+datasets
+accelerate
+
+# Data processing
+pandas
+numpy
+scikit-learn
+tqdm
+
+# Visualization
+matplotlib
+
+# Web scraping / utilities
+beautifulsoup4
+requests
