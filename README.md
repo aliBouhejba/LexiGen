@@ -1,6 +1,6 @@
 # LexiGen: GDPR Compliance Corpus
 
-LexiGen is a research corpus designed to support the analysis and evaluation of privacy policies for GDPR compliance on article-level compliance tasks.  
+LexiGen is a research synthetic corpus designed to support the analysis and evaluation of privacy policies for GDPR compliance on article-level compliance tasks.  
 
 ## Folder Structure
 
